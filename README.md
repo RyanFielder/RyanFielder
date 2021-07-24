@@ -20,33 +20,27 @@
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/unity.svg" alt="unity" width="40" height="40"/> </a> 
-
-
 </p>
 
 
+<h3 align="left">Projects</h3>
+<h4 align="left">Who's in space?</h4>
+<p align="left"> 
+[<img align="left" alt="ryanfielder.co.uk" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][whosinspacewebsite]
 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ryanfielder.vercel.app/api?username=ryanfielder&count_private=true&show_icons=true&theme=dracula&locale=en" alt="ryanfielder" /></p>
+</br>
+</br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ryanfielder.vercel.app/api?username=ryanfielder&count_private=true&show_icons=true&theme=dracula&locale=en&include_all_commits=true" alt="ryanfielder" /></p>
+
 
 
 
 
 [website]: https://ryanfielder.co.uk
+[whosinspacewebsite]: https://whosinspace.app
 [twitter]: https://twitter.com/ryan_fielder
-[linkedin]: https://linkedin.com/in/ryanfielder
+[linkedin]: https://
 
-<!--
-**RyanFielder/RyanFielder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
